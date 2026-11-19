@@ -2999,3 +2999,6 @@
  zone_pf_asteria_desc:0 "环绕着巨型星象拱门建立的社会学与跨星域交流中心。它象征着索拉里斯告别被天空海封闭的过去，向着更辽阔的星海文明敞开怀抱。 拱门的能量枢纽为整座行星持续供电，驻防设施则守护着通往星海的门户。"
  zone_pf_tidal_center:0 "黑海岸观测中心"
  zone_pf_tidal_center_desc:0 "地下的人造星空重新亮起，过往的记录在这里被妥善保存，新的星海观测也将从这里出发。"
+ Phrolova_event.328.name:0 "A New Home for Solaris"
+ Phrolova_event.328.desc:0 "With the archaeological investigation complete, Solaris's remaining structures and accumulated records can be preserved. Since our people now travel aboard an Arkship, we should transfer its discoveries and remaining features to our capital vessel."
+ PF_nomad_solaris_transfer:0 "Transfer Solaris to our Arkship"
